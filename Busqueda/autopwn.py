@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Author: Juan Garcia aka liandd
 import signal
 import sys
 from termcolor import colored
